@@ -1,0 +1,24 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.intego.com/compliance-hub
+standards:
+- id: iso-27001
+  name: ISO/IEC 27001:2022 Information Security Management
+  conforms: true
+  evidence: >-
+    Intego S.A. holds an active ISO/IEC 27001:2022 certification published on
+    the Intego Compliance Hub (https://www.intego.com/compliance-hub).
+- id: gdpr
+  name: EU General Data Protection Regulation
+  conforms: true
+  evidence: >-
+    Intego documents GDPR compliance and a published privacy policy
+    (https://www.intego.com/privacy-policy).
+- id: soc2
+  name: SOC 2
+  conforms: false
+  evidence: No SOC 2 report referenced on the compliance hub.
+- id: pci-dss
+  name: PCI DSS
+  conforms: false
+  evidence: No PCI DSS attestation published.

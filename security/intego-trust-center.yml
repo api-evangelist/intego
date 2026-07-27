@@ -1,0 +1,22 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.intego.com/compliance-hub
+url: https://www.intego.com/compliance-hub
+name: Intego Compliance Hub
+description: >-
+  Intego publishes a compliance hub for procurement and security reviews where
+  organizations can access compliance evidence and download certificates. The
+  hub documents Intego S.A.'s active information-security certification.
+certifications:
+- name: ISO/IEC 27001:2022
+  scope: Information Security Management System (Intego S.A.)
+  status: active
+programs:
+- name: GDPR
+  url: https://www.intego.com/privacy-policy
+evidence:
+- source: https://www.intego.com/compliance-hub
+  keywords:
+  - iso/iec 27001:2022
+  - information security
+  - compliance hub

@@ -1,8 +1,18 @@
 aid: intego
 name: Intego
-description: 'Intego is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Intego is a consumer cybersecurity company with more than 25 years of Mac and
+  Windows protection, headquartered in France (Intego S.A.). Its flagship Intego
+  ONE suite bundles antivirus with real-time threat detection, a network
+  firewall, the SmartClean disk-cleanup and performance optimizer, and Intego
+  VPN for encrypted private browsing, sold as separate macOS and Windows product
+  lines. Intego also runs The Mac Security Blog, a long-running source of Apple
+  and macOS security reporting. The company publishes a Compliance Hub for
+  procurement and vendor-security reviews and holds an active ISO/IEC 27001:2022
+  information-security certification. Intego is a consumer software vendor and
+  does not currently publish a public developer API, SDK, or developer portal;
+  this profile was surfaced as a Bessemer Venture Partners portfolio lead and
+  enriched with its public identity, security, and compliance surface.
 url: https://raw.githubusercontent.com/api-evangelist/intego/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +20,32 @@ x-backed-by:
 - bessemer-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://prod-assets-cms.intego.com/photos/ig/homepage/homepage-hero-desktop@2x.png
 tags:
 - Company
 - Consumer
+- Cybersecurity
+- Antivirus
+- Security
+- Endpoint Security
+- VPN
+- Privacy
+- Mac
+- macOS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.intego.com/?sr=1
+- type: Blog
+  url: https://www.intego.com/mac-security-blog/
+- type: Pricing
+  url: https://www.intego.com/buynow
+- type: Support
+  url: https://integosupport.zendesk.com/hc/en-us
+- type: PrivacyPolicy
+  url: https://www.intego.com/privacy-policy
+- type: TermsOfService
+  url: https://www.intego.com/terms-of-use
+- type: Compliance
+  url: https://www.intego.com/compliance-hub
+- type: TrustCenter
+  url: security/intego-trust-center.yml
+- type: Conformance
+  url: conformance/intego-conformance.yml
+- type: DomainSecurity
+  url: security/intego-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
