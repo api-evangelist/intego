@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Intego is a company surfaced as a portfolio company of bessemer-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Intego is a consumer cybersecurity company with more than 25 years of Mac and Windows protection, headquartered in France (Intego S.A.). Its flagship Intego ONE suite bundles antivirus with real-time threat detection, a network firewall, the SmartClean disk-cleanup and performance optimizer, and Intego VPN for encrypted private browsing, sold as separate macOS and Windows product lines. Intego also runs The Mac Security Blog, a long-running source of Apple and macOS security reporting. The company publishes a Compliance Hub for procurement and vendor-security reviews and holds an active ISO/IEC 27001:2022 information-security certification. Intego is a consumer software vendor and does not currently publish a public developer API, SDK, or developer portal; this profile was surfaced as a Bessemer Venture Partners portfolio lead and enriched with its public identity, security, and compliance surface.
 
-Backed by: bessemer-venture-partners — https://www.intego.com/?sr=1
+**Areas:** Company · Consumer · Cybersecurity · Antivirus · Security · Endpoint Security · VPN · Privacy · Mac · macOS
+
+## Intego on APIs.io
+
+Everything profiled for Intego is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/intego/](https://apis.io/providers/intego/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Intego Domain Security](https://apis.io/security/intego/intego-domain-security/)
+- [Intego Trust Center](https://apis.io/security/intego/intego-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.intego.com/?sr=1)
+- [Pricing](https://www.intego.com/buynow)
+- [Support](https://integosupport.zendesk.com/hc/en-us)
+- [Blog](https://www.intego.com/mac-security-blog/)
+- [Compliance](https://www.intego.com/compliance-hub)
+- [Terms of service](https://www.intego.com/terms-of-use)
+- [Privacy policy](https://www.intego.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 19.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 47.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/intego/](https://apis.io/providers/intego/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Intego: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/intego/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
